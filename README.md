@@ -75,3 +75,15 @@ haT
 hattric
 h a t
 ```
+
+## Negative Character Set
+
+[^s]at - ^ tells s can't be there at the beginning.
+```
+hat
+Hat
+hAt
+haT
+hattric
+h a t
+```
