@@ -116,3 +116,13 @@ h a t
 \d{0,} same as \d*
 /\d{3}-\d{3}-\d{4}
 ~~~
+
+
+## Lazy Repetation
+
+~~~
+\d*?
+\d+?
+~~~
+
+## Grouping Metacharacters ()
