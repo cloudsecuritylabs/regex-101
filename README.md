@@ -50,3 +50,15 @@ u\na
 you
 are
 ~~~
+
+## Character Set
+
+[a-z]at
+```
+hat
+Hat
+hAt
+haT
+hattric
+h a t
+```
