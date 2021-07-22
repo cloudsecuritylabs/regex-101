@@ -97,3 +97,22 @@ h a t
 \W not word char [^a-zA-Z0-9]
 \S Not Whitespace [^\t\r\n]
 ~~~
+
+## Repetation metacharacters
+
+~~~
+* preceding item, 0 or more times
++ preceding item, 1 or more times
+? preceding item, 0 or 1 time (optional)
+~~~
+
+
+## Quantified Repetation
+
+~~~
+{min, max}
+\d{5,9}
+\d{5}
+\d{0,} same as \d*
+/\d{3}-\d{3}-\d{4}
+~~~
