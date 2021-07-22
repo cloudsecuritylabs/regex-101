@@ -53,7 +53,7 @@ are
 
 ## Character Set
 
-[a-z]at
+[a-z]at - square braces represent a single charecter
 ```
 hat
 Hat
