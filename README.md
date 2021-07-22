@@ -53,7 +53,20 @@ are
 
 ## Character Set
 
-[a-z]at - square braces represent a single charecter
+[hz]at - square braces represent a single charecter
+```
+hat
+Hat
+hAt
+haT
+hattric
+h a t
+```
+
+
+## Character Range
+
+[a-z]at -represent a range
 ```
 hat
 Hat
