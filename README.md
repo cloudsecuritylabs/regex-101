@@ -29,3 +29,15 @@ paparazzi
 5-00
 5x00 
 ~~~
+
+## Escaping metacharacter
+
+/\./
+
+/5\.00/     -> this time exact match
+~~~
+5.00
+5500
+5-00
+5x00 
+~~~
