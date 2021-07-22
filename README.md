@@ -87,3 +87,13 @@ haT
 hattric
 h a t
 ```
+
+## greedy charecters
+~~~
+\d digits [0-9]
+\w word char [a-zA-Z0-9]
+\s whitespace [\t\r\n]
+\D not a digit [^0-9]
+\W not word char [^a-zA-Z0-9]
+\S Not Whitespace [^\t\r\n]
+~~~
