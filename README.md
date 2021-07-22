@@ -66,7 +66,7 @@ h a t
 
 ## Character Range
 
-[a-z]at -represent a range
+[a-z]at -represent a range , not a number range however. do not use [60-100]
 ```
 hat
 Hat
