@@ -41,3 +41,12 @@ paparazzi
 5-00
 5x00 
 ~~~
+
+## Control characters
+
+\t, \r, \n
+u\na
+~~~
+you
+are
+~~~
